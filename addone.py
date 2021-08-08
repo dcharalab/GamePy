@@ -1,6 +1,7 @@
 import random
 import keyboard
 import os
+# change cls to clear
 
 
 def print_array(array):
